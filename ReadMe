@@ -1,0 +1,10 @@
+Part1:
+g++ Part1.cpp -o part1
+./part1
+
+
+Part2:
+g++ main.cpp Point.cpp Triangle.cpp -o main
+./main
+
+
